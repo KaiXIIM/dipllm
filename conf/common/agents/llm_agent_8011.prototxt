@@ -1,0 +1,7 @@
+# Don't change this anymore -- create a new protoxt for new default configs.
+# Keeping this for posterity.
+llm_agent {
+    device: 0
+    temperature: 0.1
+    port: 8011
+}

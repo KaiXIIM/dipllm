@@ -1,0 +1,7 @@
+# Don't change this anymore -- create a new protoxt for new default configs.
+# Keeping this for posterity.
+base_strategy_model {
+    model_path: "models/diplodocus_low_rl_policy.ckpt"
+    temperature: 0.1
+    device: 0
+}

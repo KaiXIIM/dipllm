@@ -1,0 +1,14 @@
+includes {
+      path: "agents/llm_agent_8011";
+      mount: "agent_one";
+  }
+  includes {
+    path: "agents/diplodocus_low_weak";
+    mount: "agent_six";
+  }
+  compare_agents {
+    power_one: ENGLAND
+    seed: 3
+    out: "output.json"
+    draw_on_stalemate_years: 5
+  }

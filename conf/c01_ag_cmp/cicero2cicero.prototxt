@@ -1,0 +1,8 @@
+includes {path: "agents/cicero_nopress"; mount: "agent_one";}
+includes {path: "agents/cicero_nopress"; mount: "agent_six";}
+compare_agents {
+  power_one: ENGLAND
+  seed: 8
+  out: "output.json"
+  draw_on_stalemate_years: 5
+}
