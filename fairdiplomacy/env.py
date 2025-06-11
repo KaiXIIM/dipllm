@@ -162,7 +162,7 @@ class OneSixPolicyProfile(BasePolicyProfile):
                 orders[pwr] = self._players[pwr].get_orders(game_from_view_of(game, pwr))
         
                 phase_ours = game.phase.split(' ')
-        order_path = '/home/xkx/diplomacy_experiments/orders.json'
+        order_path = 'diplomacy_experiments/orders.json'
 
         if 'MOVEMENT' != phase_ours[-1]:
             orders[self._agent_one_power] = self._players[self._agent_one_power + '_build'].get_orders(game_from_view_of(game, self._agent_one_power))
