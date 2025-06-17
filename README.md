@@ -54,6 +54,9 @@ pip install -e ./thirdparty/github/fairinternal/postman/nest/
 pip install -e ./thirdparty/github/fairinternal/postman/postman/
 pip install -e . -vv
 
+# (Optional but recommended) Clean previous builds before compiling, especially if you encounter build errors
+make clean
+
 # Make
 make
 
