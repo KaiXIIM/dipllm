@@ -1,7 +1,7 @@
 # DipLLM
 
 > 🧠 A fine-tuned LLM agent for high-level strategic planning in **Diplomacy**, achieving strong performance against top agents like **Cicero**.  
-> 📢 Accepted at **ICML 2025** — [**Paper**](https://icml.cc/virtual/2025/poster/44402)
+> 📢 Accepted at **ICML 2025** — [**Paper**](https://arxiv.org/abs/2506.09655)
 
 <div align="center">
   <strong>England (DipLLM)</strong> 🟣 vs  <strong>France (Cicero)</strong> 🔵
