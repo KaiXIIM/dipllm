@@ -82,8 +82,6 @@ pip install --no-deps "trl<0.9.0" peft accelerate bitsandbytes
 | `fairdiplomacy/agents` | Includes DipLLM and various agents released or unreleased by Meta AI. |
 | `conf`                 | Configuration files for different experiments and setups.             |
 | `models`               | Pre-downloaded models used in training and evaluation.                |
-| `fine-tuning`               | Comming soon.                |
-
 
 
 ## 🔧 Fine-tune DipLLM
