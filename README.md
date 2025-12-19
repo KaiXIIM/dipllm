@@ -123,11 +123,17 @@ python h2h_evaluate.py --adhoc --cfg conf/c01_ag_cmp/cmp_8011_base_strategy_mode
 If you find our research helpful and would like to reference it in your work, please consider the following citations:
 
 ```
-@article{xu2025dipllm,
-  title={DipLLM: Fine-Tuning LLM for Strategic Decision-making in Diplomacy}, 
-  author={Kaixuan Xu, Jiajun Chai, Sicheng Li, Yuqian Fu, Yuanheng Zhu, Dongbin Zhao},
-  booktitle={The Forty-Second International Conference on Machine Learning},
-  year={2025},
-  url={https://openreview.net/pdf?id=hfPaOxDWfI}
+@inproceedings{DBLP:conf/icml/XuCLFZZ25,
+  author       = {Kaixuan Xu and
+                  Jiajun Chai and
+                  Sicheng Li and
+                  Yuqian Fu and
+                  Yuanheng Zhu and
+                  Dongbin Zhao},
+  title        = {DipLLM: Fine-Tuning {LLM} for Strategic Decision-making in Diplomacy},
+  booktitle    = {Forty-second International Conference on Machine Learning, {ICML}
+                  2025, Vancouver, BC, Canada, July 13-19, 2025},
+  publisher    = {OpenReview.net},
+  year         = {2025},
 }
 ```
